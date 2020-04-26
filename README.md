@@ -1,5 +1,5 @@
-## mybbs_Test_springboot
-
+# mybbs_springboot
+基于springboot论坛系统
 
 # 资料
 [Spring 文档](https://spring.io/guides/)
@@ -11,4 +11,4 @@
 # 工具
 [Git](https://git-scm.com/download)
 [Visual Paradiom](https://www.visual-paradigm.com)
-# mybbs_springboot
+
