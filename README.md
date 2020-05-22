@@ -1,5 +1,5 @@
-# mybbs_springboot
-基于springboot论坛系统
+# Robot爱好者之家
+基于springboot
 
 # 资料
 [Spring 文档](https://spring.io/guides/)
